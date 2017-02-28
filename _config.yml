@@ -1,0 +1,12 @@
+# Site settings
+title: My Jekyll blog
+author: John Doe
+email: john.doe@email.com
+description: "This is my brand new static blog powered by Jekyll"
+baseurl: ""
+url: "https://USERNAME.github.io"
+
+# Jekyll settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:year-:month-:day-:title

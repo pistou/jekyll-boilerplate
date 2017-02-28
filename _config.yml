@@ -4,7 +4,7 @@ author: John Doe
 email: john.doe@email.com
 description: "This is my brand new static blog powered by Jekyll"
 baseurl: ""
-url: "https://USERNAME.github.io"
+url: "https://pistou.github.io/jekyll-boilerplate"
 
 # Jekyll settings
 markdown: kramdown
